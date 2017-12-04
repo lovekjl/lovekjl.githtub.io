@@ -1,1 +1,2 @@
-theme: jekyll-theme-merlot
+git config --global user.name "kuang jeiliang"
+git config --global user.email "813004025@qq.com"
